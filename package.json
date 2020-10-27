@@ -1,0 +1,11 @@
+{
+  "name": "js-common",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": "./src/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nacamp/js-common.git"
+  }
+}
