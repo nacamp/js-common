@@ -1,3 +1,3 @@
-hello = require('../sample/hello')
+hello = require('..')
 
-hello.print();
+hello.sample.hello.print();
