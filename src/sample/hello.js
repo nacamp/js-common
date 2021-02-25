@@ -1,8 +1,7 @@
-const fs = require('fs-extra')
-const packageObj = fs.readJsonSync('../../package.json')
+const _ = require('lodash');
 
 const print = () =>{
-  console.log(packageObj.version);
+  console.log( _.join(['a', 'b', 'c'], '~'));
   console.log('v0.0.4');
 }
 module.exports = {
