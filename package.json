@@ -2,6 +2,7 @@
   "name": "js-common",
   "version": "1.0.0",
   "dependencies": {
+    "fs-extra": "^9.1.0"
   },
   "main": "./src/index.js",
   "repository": {
