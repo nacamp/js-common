@@ -1,9 +1,11 @@
 {
   "name": "js-common",
   "version": "1.0.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "peerDependencies": {
     "lodash": "^4.17.21"
   },
   "main": "./src/index.js",
